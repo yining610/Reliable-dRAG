@@ -1,18 +1,14 @@
 # A Decentralized Retrieval Augmented Generation System with Source Reliabilities Secured on Blockchain
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://img.shields.io/github/stars/yining610/Reliable-dRAG?style=social"/>
   <img src="https://img.shields.io/github/forks/yining610/Reliable-dRAG?style=social"/>
   <img src="https://img.shields.io/github/license/yining610/Reliable-dRAG?style=flat&v=2"/>
 </p>
 
 <p align="center">
-  <b>We built drag, a decentralized RAG system that addresses data reliability challenges in real-world settings </b><br>
-  <a href=""><b>Paper on arXiv</b></a>
-</p> -->
-
-<p align="center">
   <b>TL;DR: We built dRAG, a decentralized RAG system that addresses data reliability challenges in real-world settings </b><br>
+  <a href="https://arxiv.org/abs/2511.07577"><b>Paper on arXiv</b></a>
 </p>
 
 ---
